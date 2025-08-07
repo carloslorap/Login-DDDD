@@ -1,0 +1,726 @@
+[
+    {
+        "label": "runpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "runpy",
+        "description": "runpy",
+        "detail": "runpy",
+        "documentation": {}
+    },
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.domain.user_repository",
+        "description": "app.domain.user_repository",
+        "isExtraImport": true,
+        "detail": "app.domain.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.domain.user_repository",
+        "description": "app.domain.user_repository",
+        "isExtraImport": true,
+        "detail": "app.domain.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.domain.user_repository",
+        "description": "app.domain.user_repository",
+        "isExtraImport": true,
+        "detail": "app.domain.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordHasher",
+        "importPath": "app.infrastructure.auth.password_hasher",
+        "description": "app.infrastructure.auth.password_hasher",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.auth.password_hasher",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordHasher",
+        "importPath": "app.infrastructure.auth.password_hasher",
+        "description": "app.infrastructure.auth.password_hasher",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.auth.password_hasher",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordHasher",
+        "importPath": "app.infrastructure.auth.password_hasher",
+        "description": "app.infrastructure.auth.password_hasher",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.auth.password_hasher",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.domain.user",
+        "description": "app.domain.user",
+        "isExtraImport": true,
+        "detail": "app.domain.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.domain.user",
+        "description": "app.domain.user",
+        "isExtraImport": true,
+        "detail": "app.domain.user",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.domain.user",
+        "description": "app.domain.user",
+        "isExtraImport": true,
+        "detail": "app.domain.user",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "wraps",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "session",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.config.settings",
+        "description": "app.config.settings",
+        "isExtraImport": true,
+        "detail": "app.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.infrastructure.db.connection",
+        "description": "app.infrastructure.db.connection",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.db.connection",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "app.infrastructure.db.connection",
+        "description": "app.infrastructure.db.connection",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.db.connection",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "app.infrastructure.db.connection",
+        "description": "app.infrastructure.db.connection",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.db.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.infrastructure.db.connection",
+        "description": "app.infrastructure.db.connection",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.db.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.infrastructure.db.connection",
+        "description": "app.infrastructure.db.connection",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.db.connection",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "app.infrastructure.db.connection",
+        "description": "app.infrastructure.db.connection",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.db.connection",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "app.infrastructure.models.user_model",
+        "description": "app.infrastructure.models.user_model",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "importPath": "app.infrastructure.models.user_model",
+        "description": "app.infrastructure.models.user_model",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryImpl",
+        "importPath": "app.infrastructure.repositories.user_repository_impl",
+        "description": "app.infrastructure.repositories.user_repository_impl",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.repositories.user_repository_impl",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterUser",
+        "importPath": "app.application.register_user",
+        "description": "app.application.register_user",
+        "isExtraImport": true,
+        "detail": "app.application.register_user",
+        "documentation": {}
+    },
+    {
+        "label": "LoginUser",
+        "importPath": "app.application.login_user",
+        "description": "app.application.login_user",
+        "isExtraImport": true,
+        "detail": "app.application.login_user",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "importPath": "app.decorators.protection",
+        "description": "app.decorators.protection",
+        "isExtraImport": true,
+        "detail": "app.decorators.protection",
+        "documentation": {}
+    },
+    {
+        "label": "CORS",
+        "importPath": "flask_cors",
+        "description": "flask_cors",
+        "isExtraImport": true,
+        "detail": "flask_cors",
+        "documentation": {}
+    },
+    {
+        "label": "auth_bp",
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"LOGINFLASK\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"Scripts\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"LOGINFLASK\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"LOGINFLASK\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"LOGINFLASK\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"LOGINFLASK\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"..\\\\Lib\\\\site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.Scripts.activate_this",
+        "description": ".venv.Scripts.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.Scripts.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "LoginUser",
+        "kind": 6,
+        "importPath": "app.application.login_user",
+        "description": "app.application.login_user",
+        "peekOfCode": "class LoginUser:\n    def __init__(self, user_repository: UserRepository, password_hasher: PasswordHasher):\n        self.user_repository = user_repository\n        self.password_hasher = password_hasher\n    def execute(self, email: str, password: str):\n        user = self.user_repository.get_by_email(email)\n        if user is None:\n            raise ValueError(\"Usuario no encontrado.\")\n        if not self.password_hasher.verify(password, user.password):\n            raise ValueError(\"Contraseña incorrecta.\")",
+        "detail": "app.application.login_user",
+        "documentation": {}
+    },
+    {
+        "label": "RegisterUser",
+        "kind": 6,
+        "importPath": "app.application.register_user",
+        "description": "app.application.register_user",
+        "peekOfCode": "class RegisterUser:\n    def __init__(self, user_repository: UserRepository, password_hasher: PasswordHasher):\n        self.user_repository = user_repository\n        self.password_hasher = password_hasher\n    def execute(self, username: str, email: str, password: str) -> User:\n        if not username or not email or not password:\n            raise ValueError(\"Todos los campos son obligatorios.\")\n        existing_user = self.user_repository.get_by_email(email)\n        if existing_user:\n            raise ValueError(\"El correo ya está registrado.\")",
+        "detail": "app.application.register_user",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.config.settings",
+        "description": "app.config.settings",
+        "peekOfCode": "class Settings:\n    SQLALCHEMY_DATABASE_URL = os.getenv(\"DATABASE_URL\")\nsettings = Settings()",
+        "detail": "app.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.config.settings",
+        "description": "app.config.settings",
+        "peekOfCode": "settings = Settings()",
+        "detail": "app.config.settings",
+        "documentation": {}
+    },
+    {
+        "label": "login_required",
+        "kind": 2,
+        "importPath": "app.decorators.protection",
+        "description": "app.decorators.protection",
+        "peekOfCode": "def login_required(f):\n    @wraps(f)\n    def decorated_function(*args, **kwargs):\n        if session.get(\"user_id\") is None:\n            flash(\"Debes iniciar sesión primero.\")\n            return redirect(url_for(\"auth.login\"))  # Cambia 'auth.login' por el nombre correcto\n        return f(*args, **kwargs)\n    return decorated_function",
+        "detail": "app.decorators.protection",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.domain.user",
+        "description": "app.domain.user",
+        "peekOfCode": "class User:\n    id: int\n    username: str\n    email: str\n    password: str",
+        "detail": "app.domain.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "kind": 6,
+        "importPath": "app.domain.user_repository",
+        "description": "app.domain.user_repository",
+        "peekOfCode": "class UserRepository(ABC):\n    @abstractmethod\n    def get_by_email(self, email: str) -> User:\n        pass\n    @abstractmethod\n    def save(self, user: User) -> User:\n        pass",
+        "detail": "app.domain.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "PasswordHasher",
+        "kind": 6,
+        "importPath": "app.infrastructure.auth.password_hasher",
+        "description": "app.infrastructure.auth.password_hasher",
+        "peekOfCode": "class PasswordHasher:\n    def hash(self, password: str) -> str:\n        return generate_password_hash(password)\n    def verify(self, password: str, hashed: str) -> bool:\n        return check_password_hash(hashed, password)",
+        "detail": "app.infrastructure.auth.password_hasher",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.infrastructure.db.connection",
+        "description": "app.infrastructure.db.connection",
+        "peekOfCode": "engine = create_engine(\n    settings.SQLALCHEMY_DATABASE_URL,\n    echo=True,  # para ver las queries en consola (puedes quitarlo en producción)\n    future=True\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "app.infrastructure.db.connection",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app.infrastructure.db.connection",
+        "description": "app.infrastructure.db.connection",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()",
+        "detail": "app.infrastructure.db.connection",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.infrastructure.db.connection",
+        "description": "app.infrastructure.db.connection",
+        "peekOfCode": "Base = declarative_base()",
+        "detail": "app.infrastructure.db.connection",
+        "documentation": {}
+    },
+    {
+        "label": "UserModel",
+        "kind": 6,
+        "importPath": "app.infrastructure.models.user_model",
+        "description": "app.infrastructure.models.user_model",
+        "peekOfCode": "class UserModel(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True, index=True)\n    username = Column(String(100), nullable=False)\n    email = Column(String(100), unique=True, nullable=False)\n    password = Column(String(255), nullable=False)",
+        "detail": "app.infrastructure.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryImpl",
+        "kind": 6,
+        "importPath": "app.infrastructure.repositories.user_repository_impl",
+        "description": "app.infrastructure.repositories.user_repository_impl",
+        "peekOfCode": "class UserRepositoryImpl(UserRepository):\n    def get_by_email(self, email: str):\n        with SessionLocal() as db:\n            user_row = db.query(UserModel).filter(UserModel.email == email).first()\n            if user_row:\n                return User(\n                    id=user_row.id,\n                    username=user_row.username,\n                    email=user_row.email,\n                    password=user_row.password",
+        "detail": "app.infrastructure.repositories.user_repository_impl",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "def login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(email, password)\n            session[\"user_id\"] = user.id\n            return redirect(url_for(\"auth.dashboard\"))\n        except ValueError as e:\n            flash(str(e))",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "def register():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try: \n            user = register_use_case.execute(username, email, password)\n            return redirect(url_for(\"auth.login\"))\n        except ValueError as e:\n            flash(str(e))",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "dashboard",
+        "kind": 2,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "def dashboard():\n    return render_template(\"dashboard.html\")",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "auth_bp",
+        "kind": 5,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "auth_bp = Blueprint(\"auth\", __name__, template_folder=\"../templates\")\n# Instancias compartidas (podrías moverlas a un contenedor de dependencias en el futuro)\nuser_repository = UserRepositoryImpl()\npassword_hasher = PasswordHasher()\nregister_use_case = RegisterUser(user_repository, password_hasher)\nlogin_use_case = LoginUser(user_repository, password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "user_repository",
+        "kind": 5,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "user_repository = UserRepositoryImpl()\npassword_hasher = PasswordHasher()\nregister_use_case = RegisterUser(user_repository, password_hasher)\nlogin_use_case = LoginUser(user_repository, password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try:",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "password_hasher",
+        "kind": 5,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "password_hasher = PasswordHasher()\nregister_use_case = RegisterUser(user_repository, password_hasher)\nlogin_use_case = LoginUser(user_repository, password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(email, password)",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "register_use_case",
+        "kind": 5,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "register_use_case = RegisterUser(user_repository, password_hasher)\nlogin_use_case = LoginUser(user_repository, password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(email, password)\n            session[\"user_id\"] = user.id",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "login_use_case",
+        "kind": 5,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "login_use_case = LoginUser(user_repository, password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(email, password)\n            session[\"user_id\"] = user.id\n            return redirect(url_for(\"auth.dashboard\"))",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = Flask(__name__)\nCORS(app)\napp.secret_key = \"123456789\"\n# Registrar blueprints\napp.register_blueprint(auth_bp)\n# Crear las tablas en la base de datos si no existen\nwith app.app_context():\n    Base.metadata.create_all(bind=engine)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app.secret_key",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app.secret_key = \"123456789\"\n# Registrar blueprints\napp.register_blueprint(auth_bp)\n# Crear las tablas en la base de datos si no existen\nwith app.app_context():\n    Base.metadata.create_all(bind=engine)\nif __name__ == \"__main__\":\n    app.run(debug=True)",
+        "detail": "app",
+        "documentation": {}
+    }
+]
