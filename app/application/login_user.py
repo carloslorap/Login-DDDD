@@ -1,19 +1,20 @@
-from app.domain.user_repository import UserRepository
+from app.domain.auth_repository import AuthRepository
 from app.infrastructure.auth.password_hasher import PasswordHasher
 
-
 class LoginUser:
-    def __init__(self, user_repository: UserRepository, password_hasher: PasswordHasher):
+    def __init__(self, user_repository: AuthRepository, password_hasher: PasswordHasher):
         self.user_repository = user_repository
         self.password_hasher = password_hasher
 
-    def execute(self, email: str, password: str):
-        user = self.user_repository.get_by_email(email)
+    def execute(self, username: str, password: str): 
+        # Buscar usuario por su nombre de usuario (login)
+        user = self.user_repository.get_by_username(username)
 
         if user is None:
             raise ValueError("Usuario no encontrado.")
 
-        if not self.password_hasher.verify(password, user.password):
+        # Verificar la contraseña (hasheada)
+        if not self.password_hasher.verify(password, user.contrasena):
             raise ValueError("Contraseña incorrecta.")
 
         return user

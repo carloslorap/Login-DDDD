@@ -1,12 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    
-    <h1>lograste ingresar!!</h1>
-</body>
-</html>
+{% extends 'layout/base.html' %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+    <h2 class="text-cyan-700">Bienvenido al Dashboard</h2>
+    <p>Contenido dinámico aquí...</p>
+{% endblock %}

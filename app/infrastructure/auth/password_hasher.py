@@ -1,8 +1,10 @@
-from werkzeug.security import generate_password_hash, check_password_hash
+import hashlib
 
 class PasswordHasher:
     def hash(self, password: str) -> str:
-        return generate_password_hash(password)
+        """Genera el hash SHA-256 de la contraseña."""
+        return hashlib.sha256(password.encode("utf-8")).hexdigest()
 
-    def verify(self, password: str, hashed: str) -> bool:
-        return check_password_hash(hashed, password)
+    def verify(self, password: str, hashed_password: str) -> bool:
+        """Verifica si el hash coincide con el guardado."""
+        return self.hash(password) == hashed_password

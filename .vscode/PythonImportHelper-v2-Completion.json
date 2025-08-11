@@ -44,27 +44,115 @@
         "documentation": {}
     },
     {
-        "label": "UserRepository",
-        "importPath": "app.domain.user_repository",
-        "description": "app.domain.user_repository",
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
         "isExtraImport": true,
-        "detail": "app.domain.user_repository",
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "TipoUsuarioRepository",
+        "importPath": "app.domain.user.typeUser_repository",
+        "description": "app.domain.user.typeUser_repository",
+        "isExtraImport": true,
+        "detail": "app.domain.user.typeUser_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TipoUsuarioRepository",
+        "importPath": "app.domain.user.typeUser_repository",
+        "description": "app.domain.user.typeUser_repository",
+        "isExtraImport": true,
+        "detail": "app.domain.user.typeUser_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TipoUsuario",
+        "importPath": "app.domain.user.type_user",
+        "description": "app.domain.user.type_user",
+        "isExtraImport": true,
+        "detail": "app.domain.user.type_user",
+        "documentation": {}
+    },
+    {
+        "label": "TipoUsuario",
+        "importPath": "app.domain.user.type_user",
+        "description": "app.domain.user.type_user",
+        "isExtraImport": true,
+        "detail": "app.domain.user.type_user",
+        "documentation": {}
+    },
+    {
+        "label": "TipoUsuario",
+        "importPath": "app.domain.user.type_user",
+        "description": "app.domain.user.type_user",
+        "isExtraImport": true,
+        "detail": "app.domain.user.type_user",
         "documentation": {}
     },
     {
         "label": "UserRepository",
-        "importPath": "app.domain.user_repository",
-        "description": "app.domain.user_repository",
+        "importPath": "app.domain.user.usuario_repository",
+        "description": "app.domain.user.usuario_repository",
         "isExtraImport": true,
-        "detail": "app.domain.user_repository",
+        "detail": "app.domain.user.usuario_repository",
         "documentation": {}
     },
     {
         "label": "UserRepository",
-        "importPath": "app.domain.user_repository",
-        "description": "app.domain.user_repository",
+        "importPath": "app.domain.user.usuario_repository",
+        "description": "app.domain.user.usuario_repository",
         "isExtraImport": true,
-        "detail": "app.domain.user_repository",
+        "detail": "app.domain.user.usuario_repository",
         "documentation": {}
     },
     {
@@ -93,26 +181,42 @@
     },
     {
         "label": "User",
-        "importPath": "app.domain.user",
-        "description": "app.domain.user",
+        "importPath": "app.domain.user.usuario",
+        "description": "app.domain.user.usuario",
         "isExtraImport": true,
-        "detail": "app.domain.user",
+        "detail": "app.domain.user.usuario",
         "documentation": {}
     },
     {
         "label": "User",
-        "importPath": "app.domain.user",
-        "description": "app.domain.user",
+        "importPath": "app.domain.user.usuario",
+        "description": "app.domain.user.usuario",
         "isExtraImport": true,
-        "detail": "app.domain.user",
+        "detail": "app.domain.user.usuario",
         "documentation": {}
     },
     {
         "label": "User",
-        "importPath": "app.domain.user",
-        "description": "app.domain.user",
+        "importPath": "app.domain.user.usuario",
+        "description": "app.domain.user.usuario",
         "isExtraImport": true,
-        "detail": "app.domain.user",
+        "detail": "app.domain.user.usuario",
+        "documentation": {}
+    },
+    {
+        "label": "AuthRepository",
+        "importPath": "app.domain.auth_repository",
+        "description": "app.domain.auth_repository",
+        "isExtraImport": true,
+        "detail": "app.domain.auth_repository",
+        "documentation": {}
+    },
+    {
+        "label": "AuthRepository",
+        "importPath": "app.domain.auth_repository",
+        "description": "app.domain.auth_repository",
+        "isExtraImport": true,
+        "detail": "app.domain.auth_repository",
         "documentation": {}
     },
     {
@@ -228,11 +332,19 @@
         "documentation": {}
     },
     {
-        "label": "dataclass",
-        "importPath": "dataclasses",
-        "description": "dataclasses",
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
         "isExtraImport": true,
-        "detail": "dataclasses",
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
         "documentation": {}
     },
     {
@@ -252,19 +364,68 @@
         "documentation": {}
     },
     {
-        "label": "generate_password_hash",
-        "importPath": "werkzeug.security",
-        "description": "werkzeug.security",
+        "label": "ABC",
+        "importPath": "abc",
+        "description": "abc",
         "isExtraImport": true,
-        "detail": "werkzeug.security",
+        "detail": "abc",
         "documentation": {}
     },
     {
-        "label": "check_password_hash",
-        "importPath": "werkzeug.security",
-        "description": "werkzeug.security",
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
         "isExtraImport": true,
-        "detail": "werkzeug.security",
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "Auth",
+        "importPath": "app.domain.auth",
+        "description": "app.domain.auth",
+        "isExtraImport": true,
+        "detail": "app.domain.auth",
+        "documentation": {}
+    },
+    {
+        "label": "Auth",
+        "importPath": "app.domain.auth",
+        "description": "app.domain.auth",
+        "isExtraImport": true,
+        "detail": "app.domain.auth",
+        "documentation": {}
+    },
+    {
+        "label": "hashlib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "hashlib",
+        "description": "hashlib",
+        "detail": "hashlib",
         "documentation": {}
     },
     {
@@ -300,6 +461,22 @@
         "documentation": {}
     },
     {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
         "label": "sessionmaker",
         "importPath": "sqlalchemy.orm",
         "description": "sqlalchemy.orm",
@@ -309,6 +486,14 @@
     },
     {
         "label": "declarative_base",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
         "importPath": "sqlalchemy.orm",
         "description": "sqlalchemy.orm",
         "isExtraImport": true,
@@ -340,6 +525,14 @@
         "documentation": {}
     },
     {
+        "label": "SessionLocal",
+        "importPath": "app.infrastructure.db.connection",
+        "description": "app.infrastructure.db.connection",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.db.connection",
+        "documentation": {}
+    },
+    {
         "label": "engine",
         "importPath": "app.infrastructure.db.connection",
         "description": "app.infrastructure.db.connection",
@@ -356,23 +549,15 @@
         "documentation": {}
     },
     {
-        "label": "Base",
-        "importPath": "app.infrastructure.db.connection",
-        "description": "app.infrastructure.db.connection",
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
         "isExtraImport": true,
-        "detail": "app.infrastructure.db.connection",
+        "detail": "datetime",
         "documentation": {}
     },
     {
-        "label": "engine",
-        "importPath": "app.infrastructure.db.connection",
-        "description": "app.infrastructure.db.connection",
-        "isExtraImport": true,
-        "detail": "app.infrastructure.db.connection",
-        "documentation": {}
-    },
-    {
-        "label": "UserModel",
+        "label": "TipoUsuario",
         "importPath": "app.infrastructure.models.user_model",
         "description": "app.infrastructure.models.user_model",
         "isExtraImport": true,
@@ -380,7 +565,7 @@
         "documentation": {}
     },
     {
-        "label": "UserModel",
+        "label": "Usuario",
         "importPath": "app.infrastructure.models.user_model",
         "description": "app.infrastructure.models.user_model",
         "isExtraImport": true,
@@ -388,19 +573,44 @@
         "documentation": {}
     },
     {
-        "label": "UserRepositoryImpl",
-        "importPath": "app.infrastructure.repositories.user_repository_impl",
-        "description": "app.infrastructure.repositories.user_repository_impl",
+        "label": "Usuario",
+        "importPath": "app.infrastructure.models.user_model",
+        "description": "app.infrastructure.models.user_model",
         "isExtraImport": true,
-        "detail": "app.infrastructure.repositories.user_repository_impl",
+        "detail": "app.infrastructure.models.user_model",
         "documentation": {}
     },
     {
-        "label": "RegisterUser",
-        "importPath": "app.application.register_user",
-        "description": "app.application.register_user",
+        "label": "Usuario",
+        "importPath": "app.infrastructure.models.user_model",
+        "description": "app.infrastructure.models.user_model",
         "isExtraImport": true,
-        "detail": "app.application.register_user",
+        "detail": "app.infrastructure.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "importPath": "app.infrastructure.models.user_model",
+        "description": "app.infrastructure.models.user_model",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "traceback",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "traceback",
+        "description": "traceback",
+        "detail": "traceback",
+        "documentation": {}
+    },
+    {
+        "label": "AuthRepositoryImpl",
+        "importPath": "app.infrastructure.repositories.auth_repository_impl",
+        "description": "app.infrastructure.repositories.auth_repository_impl",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.repositories.auth_repository_impl",
         "documentation": {}
     },
     {
@@ -417,6 +627,38 @@
         "description": "app.decorators.protection",
         "isExtraImport": true,
         "detail": "app.decorators.protection",
+        "documentation": {}
+    },
+    {
+        "label": "TipoUsuarioRepositoryImpl",
+        "importPath": "app.infrastructure.repositories.user.usuario_repository_impl",
+        "description": "app.infrastructure.repositories.user.usuario_repository_impl",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.repositories.user.usuario_repository_impl",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepositoryImpl",
+        "importPath": "app.infrastructure.repositories.user.usuario_repository_impl",
+        "description": "app.infrastructure.repositories.user.usuario_repository_impl",
+        "isExtraImport": true,
+        "detail": "app.infrastructure.repositories.user.usuario_repository_impl",
+        "documentation": {}
+    },
+    {
+        "label": "TypeUserServices",
+        "importPath": "app.application.user.user_services",
+        "description": "app.application.user.user_services",
+        "isExtraImport": true,
+        "detail": "app.application.user.user_services",
+        "documentation": {}
+    },
+    {
+        "label": "UserServices",
+        "importPath": "app.application.user.user_services",
+        "description": "app.application.user.user_services",
+        "isExtraImport": true,
+        "detail": "app.application.user.user_services",
         "documentation": {}
     },
     {
@@ -517,21 +759,30 @@
         "documentation": {}
     },
     {
+        "label": "TypeUserServices",
+        "kind": 6,
+        "importPath": "app.application.user.user_services",
+        "description": "app.application.user.user_services",
+        "peekOfCode": "class TypeUserServices:\n    def __init__(self, tipo_usuario_repository: TipoUsuarioRepository):\n        self.tipo_usuario_repository = tipo_usuario_repository\n    def execute(self) -> List[TipoUsuario]:\n        return self.tipo_usuario_repository.get_all()\nclass UserServices:\n    def __init__(\n        self,\n        user_repository: UserRepository,\n        password_hasher: PasswordHasher",
+        "detail": "app.application.user.user_services",
+        "documentation": {}
+    },
+    {
+        "label": "UserServices",
+        "kind": 6,
+        "importPath": "app.application.user.user_services",
+        "description": "app.application.user.user_services",
+        "peekOfCode": "class UserServices:\n    def __init__(\n        self,\n        user_repository: UserRepository,\n        password_hasher: PasswordHasher\n    ):\n        self.user_repository = user_repository\n        self.password_hasher = password_hasher\n    # Registrar un nuevo usuario\n    def register_user(",
+        "detail": "app.application.user.user_services",
+        "documentation": {}
+    },
+    {
         "label": "LoginUser",
         "kind": 6,
         "importPath": "app.application.login_user",
         "description": "app.application.login_user",
-        "peekOfCode": "class LoginUser:\n    def __init__(self, user_repository: UserRepository, password_hasher: PasswordHasher):\n        self.user_repository = user_repository\n        self.password_hasher = password_hasher\n    def execute(self, email: str, password: str):\n        user = self.user_repository.get_by_email(email)\n        if user is None:\n            raise ValueError(\"Usuario no encontrado.\")\n        if not self.password_hasher.verify(password, user.password):\n            raise ValueError(\"Contraseña incorrecta.\")",
+        "peekOfCode": "class LoginUser:\n    def __init__(self, user_repository: AuthRepository, password_hasher: PasswordHasher):\n        self.user_repository = user_repository\n        self.password_hasher = password_hasher\n    def execute(self, username: str, password: str): \n        # Buscar usuario por su nombre de usuario (login)\n        user = self.user_repository.get_by_username(username)\n        if user is None:\n            raise ValueError(\"Usuario no encontrado.\")\n        # Verificar la contraseña (hasheada)",
         "detail": "app.application.login_user",
-        "documentation": {}
-    },
-    {
-        "label": "RegisterUser",
-        "kind": 6,
-        "importPath": "app.application.register_user",
-        "description": "app.application.register_user",
-        "peekOfCode": "class RegisterUser:\n    def __init__(self, user_repository: UserRepository, password_hasher: PasswordHasher):\n        self.user_repository = user_repository\n        self.password_hasher = password_hasher\n    def execute(self, username: str, email: str, password: str) -> User:\n        if not username or not email or not password:\n            raise ValueError(\"Todos los campos son obligatorios.\")\n        existing_user = self.user_repository.get_by_email(email)\n        if existing_user:\n            raise ValueError(\"El correo ya está registrado.\")",
-        "detail": "app.application.register_user",
         "documentation": {}
     },
     {
@@ -562,21 +813,57 @@
         "documentation": {}
     },
     {
+        "label": "TipoUsuarioRepository",
+        "kind": 6,
+        "importPath": "app.domain.user.typeUser_repository",
+        "description": "app.domain.user.typeUser_repository",
+        "peekOfCode": "class TipoUsuarioRepository(ABC):\n    @abstractmethod\n    def get_all(self) -> List[TipoUsuario]:\n        pass",
+        "detail": "app.domain.user.typeUser_repository",
+        "documentation": {}
+    },
+    {
+        "label": "TipoUsuario",
+        "kind": 6,
+        "importPath": "app.domain.user.type_user",
+        "description": "app.domain.user.type_user",
+        "peekOfCode": "class TipoUsuario:\n    tipo_usuario_id: int\n    nombre: str",
+        "detail": "app.domain.user.type_user",
+        "documentation": {}
+    },
+    {
         "label": "User",
         "kind": 6,
-        "importPath": "app.domain.user",
-        "description": "app.domain.user",
-        "peekOfCode": "class User:\n    id: int\n    username: str\n    email: str\n    password: str",
-        "detail": "app.domain.user",
+        "importPath": "app.domain.user.usuario",
+        "description": "app.domain.user.usuario",
+        "peekOfCode": "class User:\n    usuario: str               \n    contrasena: str           \n    nombres: str\n    ap_paterno: str\n    ap_materno: str\n    tipo_usuario_id: int\n    estado: int = 1\n    usuario_id: Optional[int] = None\n    # estado: str",
+        "detail": "app.domain.user.usuario",
         "documentation": {}
     },
     {
         "label": "UserRepository",
         "kind": 6,
-        "importPath": "app.domain.user_repository",
-        "description": "app.domain.user_repository",
-        "peekOfCode": "class UserRepository(ABC):\n    @abstractmethod\n    def get_by_email(self, email: str) -> User:\n        pass\n    @abstractmethod\n    def save(self, user: User) -> User:\n        pass",
-        "detail": "app.domain.user_repository",
+        "importPath": "app.domain.user.usuario_repository",
+        "description": "app.domain.user.usuario_repository",
+        "peekOfCode": "class UserRepository(ABC):\n     @abstractmethod\n     def create_user(self, user: User) -> User:\n        pass",
+        "detail": "app.domain.user.usuario_repository",
+        "documentation": {}
+    },
+    {
+        "label": "Auth",
+        "kind": 6,
+        "importPath": "app.domain.auth",
+        "description": "app.domain.auth",
+        "peekOfCode": "class Auth:\n    usuario_id: int\n    usuario: str               \n    contrasena: str",
+        "detail": "app.domain.auth",
+        "documentation": {}
+    },
+    {
+        "label": "AuthRepository",
+        "kind": 6,
+        "importPath": "app.domain.auth_repository",
+        "description": "app.domain.auth_repository",
+        "peekOfCode": "class AuthRepository(ABC):\n    @abstractmethod\n    def get_by_username(self, username: str) -> Optional[Auth]:\n        pass\n    # @abstractmethod\n    # def create_user(self, user: User) -> User:\n    #     pass\n    # @abstractmethod|\n    # def save(self, user: User) -> User:\n    #     pass",
+        "detail": "app.domain.auth_repository",
         "documentation": {}
     },
     {
@@ -584,7 +871,7 @@
         "kind": 6,
         "importPath": "app.infrastructure.auth.password_hasher",
         "description": "app.infrastructure.auth.password_hasher",
-        "peekOfCode": "class PasswordHasher:\n    def hash(self, password: str) -> str:\n        return generate_password_hash(password)\n    def verify(self, password: str, hashed: str) -> bool:\n        return check_password_hash(hashed, password)",
+        "peekOfCode": "class PasswordHasher:\n    def hash(self, password: str) -> str:\n        \"\"\"Genera el hash SHA-256 de la contraseña.\"\"\"\n        return hashlib.sha256(password.encode(\"utf-8\")).hexdigest()\n    def verify(self, password: str, hashed_password: str) -> bool:\n        \"\"\"Verifica si el hash coincide con el guardado.\"\"\"\n        return self.hash(password) == hashed_password",
         "detail": "app.infrastructure.auth.password_hasher",
         "documentation": {}
     },
@@ -616,21 +903,48 @@
         "documentation": {}
     },
     {
-        "label": "UserModel",
+        "label": "TipoUsuario",
         "kind": 6,
         "importPath": "app.infrastructure.models.user_model",
         "description": "app.infrastructure.models.user_model",
-        "peekOfCode": "class UserModel(Base):\n    __tablename__ = \"users\"\n    id = Column(Integer, primary_key=True, index=True)\n    username = Column(String(100), nullable=False)\n    email = Column(String(100), unique=True, nullable=False)\n    password = Column(String(255), nullable=False)",
+        "peekOfCode": "class TipoUsuario(Base):\n    __tablename__ = \"tbl_tipo_usuario\"\n    tipo_usuario_id = Column(Integer, primary_key=True, autoincrement=True)\n    created_at = Column(DateTime)\n    updated_at = Column(DateTime)\n    nombre = Column(String(50))\n    estado = Column(String(10))\n    usuarios = relationship(\"Usuario\", back_populates=\"tipo_usuario\")\nclass Usuario(Base):\n    __tablename__ = \"tbl_usuario\"",
         "detail": "app.infrastructure.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "Usuario",
+        "kind": 6,
+        "importPath": "app.infrastructure.models.user_model",
+        "description": "app.infrastructure.models.user_model",
+        "peekOfCode": "class Usuario(Base):\n    __tablename__ = \"tbl_usuario\"\n    usuario_id = Column(Integer, primary_key=True, autoincrement=True)\n    created_at = Column(DateTime, default=datetime.now, nullable=False)\n    updated_at = Column(DateTime, default=datetime.now, onupdate=datetime.now, nullable=False)\n    usuario = Column(String(50))\n    contrasena = Column(String(255))\n    nombres = Column(String(100))\n    ap_paterno = Column(String(50))\n    ap_materno = Column(String(50))",
+        "detail": "app.infrastructure.models.user_model",
+        "documentation": {}
+    },
+    {
+        "label": "TipoUsuarioRepositoryImpl",
+        "kind": 6,
+        "importPath": "app.infrastructure.repositories.user.usuario_repository_impl",
+        "description": "app.infrastructure.repositories.user.usuario_repository_impl",
+        "peekOfCode": "class TipoUsuarioRepositoryImpl(TipoUsuarioRepository):\n    def get_all(self) -> List[TipoUsuario]:\n        with SessionLocal() as db:\n            rows = db.query(TipoUsuarioModel).all()\n            return [\n                TipoUsuario(tipo_usuario_id=row.tipo_usuario_id, nombre=row.nombre)\n                for row in rows\n            ]\nclass UserRepositoryImpl(UserRepository):\n    def create_user(self, user: User) -> User:",
+        "detail": "app.infrastructure.repositories.user.usuario_repository_impl",
         "documentation": {}
     },
     {
         "label": "UserRepositoryImpl",
         "kind": 6,
-        "importPath": "app.infrastructure.repositories.user_repository_impl",
-        "description": "app.infrastructure.repositories.user_repository_impl",
-        "peekOfCode": "class UserRepositoryImpl(UserRepository):\n    def get_by_email(self, email: str):\n        with SessionLocal() as db:\n            user_row = db.query(UserModel).filter(UserModel.email == email).first()\n            if user_row:\n                return User(\n                    id=user_row.id,\n                    username=user_row.username,\n                    email=user_row.email,\n                    password=user_row.password",
-        "detail": "app.infrastructure.repositories.user_repository_impl",
+        "importPath": "app.infrastructure.repositories.user.usuario_repository_impl",
+        "description": "app.infrastructure.repositories.user.usuario_repository_impl",
+        "peekOfCode": "class UserRepositoryImpl(UserRepository):\n    def create_user(self, user: User) -> User:\n        print(\"Insertando usuario en DB\")\n        with SessionLocal() as db:\n            new_user = UsuarioModel(\n                nombres=user.nombres,\n                ap_paterno=user.ap_paterno,\n                ap_materno=user.ap_materno,\n                usuario=user.usuario,\n                contrasena=user.contrasena,",
+        "detail": "app.infrastructure.repositories.user.usuario_repository_impl",
+        "documentation": {}
+    },
+    {
+        "label": "AuthRepositoryImpl",
+        "kind": 6,
+        "importPath": "app.infrastructure.repositories.auth_repository_impl",
+        "description": "app.infrastructure.repositories.auth_repository_impl",
+        "peekOfCode": "class AuthRepositoryImpl(AuthRepository):\n    def get_by_username(self, username: str) -> Optional[Auth]:\n        with SessionLocal() as db:\n            user_row = db.query(Usuario).filter(Usuario.usuario == username).first()\n            if user_row:\n                return Auth(\n                    usuario_id=user_row.usuario_id,\n                    usuario=user_row.usuario,\n                    contrasena=user_row.contrasena,\n                )",
+        "detail": "app.infrastructure.repositories.auth_repository_impl",
         "documentation": {}
     },
     {
@@ -638,16 +952,7 @@
         "kind": 2,
         "importPath": "app.infrastructure.web.routes.auth_routes",
         "description": "app.infrastructure.web.routes.auth_routes",
-        "peekOfCode": "def login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(email, password)\n            session[\"user_id\"] = user.id\n            return redirect(url_for(\"auth.dashboard\"))\n        except ValueError as e:\n            flash(str(e))",
-        "detail": "app.infrastructure.web.routes.auth_routes",
-        "documentation": {}
-    },
-    {
-        "label": "register",
-        "kind": 2,
-        "importPath": "app.infrastructure.web.routes.auth_routes",
-        "description": "app.infrastructure.web.routes.auth_routes",
-        "peekOfCode": "def register():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\")\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try: \n            user = register_use_case.execute(username, email, password)\n            return redirect(url_for(\"auth.login\"))\n        except ValueError as e:\n            flash(str(e))",
+        "peekOfCode": "def login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\") \n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(username, password) \n            session[\"user_id\"] = user.usuario_id\n            return redirect(url_for(\"auth.dashboard\"))\n        except ValueError as e:\n            flash(str(e))",
         "detail": "app.infrastructure.web.routes.auth_routes",
         "documentation": {}
     },
@@ -656,7 +961,16 @@
         "kind": 2,
         "importPath": "app.infrastructure.web.routes.auth_routes",
         "description": "app.infrastructure.web.routes.auth_routes",
-        "peekOfCode": "def dashboard():\n    return render_template(\"dashboard.html\")",
+        "peekOfCode": "def dashboard():\n    return render_template(\"dashboard.html\")\n@auth_bp.route(\"/user\" ,methods=[\"GET\", \"POST\"])\n@login_required\ndef user_create():\n    print(\"llegue!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\")\n    if request.method == \"POST\":\n        nombres = request.form.get(\"nombres\")\n        ap_paterno = request.form.get(\"ap_paterno\")\n        ap_materno = request.form.get(\"ap_materno\")",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "user_create",
+        "kind": 2,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "def user_create():\n    print(\"llegue!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\")\n    if request.method == \"POST\":\n        nombres = request.form.get(\"nombres\")\n        ap_paterno = request.form.get(\"ap_paterno\")\n        ap_materno = request.form.get(\"ap_materno\")\n        usuario = request.form.get(\"usuario\")\n        contrasena = request.form.get(\"contrasena\")\n        repetir_contrasena = request.form.get(\"repetir_contrasena\")\n        tipo_usuario_id = int(request.form.get(\"tipo_usuario\"))",
         "detail": "app.infrastructure.web.routes.auth_routes",
         "documentation": {}
     },
@@ -665,16 +979,16 @@
         "kind": 5,
         "importPath": "app.infrastructure.web.routes.auth_routes",
         "description": "app.infrastructure.web.routes.auth_routes",
-        "peekOfCode": "auth_bp = Blueprint(\"auth\", __name__, template_folder=\"../templates\")\n# Instancias compartidas (podrías moverlas a un contenedor de dependencias en el futuro)\nuser_repository = UserRepositoryImpl()\npassword_hasher = PasswordHasher()\nregister_use_case = RegisterUser(user_repository, password_hasher)\nlogin_use_case = LoginUser(user_repository, password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")",
+        "peekOfCode": "auth_bp = Blueprint(\"auth\", __name__, template_folder=\"../templates\")\n# Instancias compartidas\nauth_repository = AuthRepositoryImpl()\npassword_hasher = PasswordHasher()\ntipo_usuario_repository = TipoUsuarioRepositoryImpl()\nuser_repository = UserRepositoryImpl()\nlogin_use_case = LoginUser(auth_repository, password_hasher)\nlistar_tipos_usuario = TypeUserServices(tipo_usuario_repository)\nuser_services = UserServices(user_repository,password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])",
         "detail": "app.infrastructure.web.routes.auth_routes",
         "documentation": {}
     },
     {
-        "label": "user_repository",
+        "label": "auth_repository",
         "kind": 5,
         "importPath": "app.infrastructure.web.routes.auth_routes",
         "description": "app.infrastructure.web.routes.auth_routes",
-        "peekOfCode": "user_repository = UserRepositoryImpl()\npassword_hasher = PasswordHasher()\nregister_use_case = RegisterUser(user_repository, password_hasher)\nlogin_use_case = LoginUser(user_repository, password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try:",
+        "peekOfCode": "auth_repository = AuthRepositoryImpl()\npassword_hasher = PasswordHasher()\ntipo_usuario_repository = TipoUsuarioRepositoryImpl()\nuser_repository = UserRepositoryImpl()\nlogin_use_case = LoginUser(auth_repository, password_hasher)\nlistar_tipos_usuario = TypeUserServices(tipo_usuario_repository)\nuser_services = UserServices(user_repository,password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":",
         "detail": "app.infrastructure.web.routes.auth_routes",
         "documentation": {}
     },
@@ -683,16 +997,25 @@
         "kind": 5,
         "importPath": "app.infrastructure.web.routes.auth_routes",
         "description": "app.infrastructure.web.routes.auth_routes",
-        "peekOfCode": "password_hasher = PasswordHasher()\nregister_use_case = RegisterUser(user_repository, password_hasher)\nlogin_use_case = LoginUser(user_repository, password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(email, password)",
+        "peekOfCode": "password_hasher = PasswordHasher()\ntipo_usuario_repository = TipoUsuarioRepositoryImpl()\nuser_repository = UserRepositoryImpl()\nlogin_use_case = LoginUser(auth_repository, password_hasher)\nlistar_tipos_usuario = TypeUserServices(tipo_usuario_repository)\nuser_services = UserServices(user_repository,password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\") ",
         "detail": "app.infrastructure.web.routes.auth_routes",
         "documentation": {}
     },
     {
-        "label": "register_use_case",
+        "label": "tipo_usuario_repository",
         "kind": 5,
         "importPath": "app.infrastructure.web.routes.auth_routes",
         "description": "app.infrastructure.web.routes.auth_routes",
-        "peekOfCode": "register_use_case = RegisterUser(user_repository, password_hasher)\nlogin_use_case = LoginUser(user_repository, password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(email, password)\n            session[\"user_id\"] = user.id",
+        "peekOfCode": "tipo_usuario_repository = TipoUsuarioRepositoryImpl()\nuser_repository = UserRepositoryImpl()\nlogin_use_case = LoginUser(auth_repository, password_hasher)\nlistar_tipos_usuario = TypeUserServices(tipo_usuario_repository)\nuser_services = UserServices(user_repository,password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\") \n        password = request.form.get(\"password\")",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "user_repository",
+        "kind": 5,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "user_repository = UserRepositoryImpl()\nlogin_use_case = LoginUser(auth_repository, password_hasher)\nlistar_tipos_usuario = TypeUserServices(tipo_usuario_repository)\nuser_services = UserServices(user_repository,password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\") \n        password = request.form.get(\"password\")\n        try:",
         "detail": "app.infrastructure.web.routes.auth_routes",
         "documentation": {}
     },
@@ -701,7 +1024,25 @@
         "kind": 5,
         "importPath": "app.infrastructure.web.routes.auth_routes",
         "description": "app.infrastructure.web.routes.auth_routes",
-        "peekOfCode": "login_use_case = LoginUser(user_repository, password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        email = request.form.get(\"email\")\n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(email, password)\n            session[\"user_id\"] = user.id\n            return redirect(url_for(\"auth.dashboard\"))",
+        "peekOfCode": "login_use_case = LoginUser(auth_repository, password_hasher)\nlistar_tipos_usuario = TypeUserServices(tipo_usuario_repository)\nuser_services = UserServices(user_repository,password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\") \n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(username, password) ",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "listar_tipos_usuario",
+        "kind": 5,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "listar_tipos_usuario = TypeUserServices(tipo_usuario_repository)\nuser_services = UserServices(user_repository,password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\") \n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(username, password) \n            session[\"user_id\"] = user.usuario_id",
+        "detail": "app.infrastructure.web.routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "user_services",
+        "kind": 5,
+        "importPath": "app.infrastructure.web.routes.auth_routes",
+        "description": "app.infrastructure.web.routes.auth_routes",
+        "peekOfCode": "user_services = UserServices(user_repository,password_hasher)\n@auth_bp.route(\"/login\", methods=[\"GET\", \"POST\"])\ndef login():\n    if request.method == \"POST\":\n        username = request.form.get(\"username\") \n        password = request.form.get(\"password\")\n        try:\n            user = login_use_case.execute(username, password) \n            session[\"user_id\"] = user.usuario_id\n            return redirect(url_for(\"auth.dashboard\"))",
         "detail": "app.infrastructure.web.routes.auth_routes",
         "documentation": {}
     },
